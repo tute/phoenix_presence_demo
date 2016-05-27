@@ -73,5 +73,6 @@ defmodule Demo.Presence do
   original presence data.
   """
   use Phoenix.Presence, otp_app: :demo,
-                        pubsub_server: Demo.PubSub
+                        pubsub_server: Demo.PubSub,
+                        log_level: :debug
 end
