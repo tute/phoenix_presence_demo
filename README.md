@@ -2,6 +2,8 @@
 
 Pairing with Emiliano Mancuso
 
+Created from https://www.youtube.com/watch?v=9dALrnCOLNE
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
