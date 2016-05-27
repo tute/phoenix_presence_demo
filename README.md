@@ -2,7 +2,8 @@
 
 Pairing with Emiliano Mancuso
 
-Created from https://www.youtube.com/watch?v=9dALrnCOLNE
+Created from https://www.youtube.com/watch?v=9dALrnCOLNE and
+https://www.youtube.com/watch?v=n338leKvqnA
 
 To start your Phoenix app:
 
